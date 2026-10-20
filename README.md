@@ -17,7 +17,7 @@ Author: Anthony Adusei-Poku ([@anthony07-max](https://github.com/anthony07-max))
    ball-winning role cluster as Kanté. On the full profile, though, he ranks only **218th of 294** central midfielders by similarity.
    Mendy was a deeper, less mobile holder, which shows why a single "defensive midfielder" label isn't enough.
 3. **For Riyad Mahrez:** the closest matches were Wilfried Zaha (0.69) and Sofiane Boufal (Lille, 0.69), with Carrasco and a
-   19-year-old Ousmane Dembélé (Rennes) in the top five. **For Dimitri Payet:** Willian (0.79) and Di María (0.78) came first, with Papu Gómez (Atalanta) as the value pick.
+   teenage Ousmane Dembélé (Rennes) in the top five. **For Dimitri Payet:** Willian (0.79) and Di María (0.78) came first, with Papu Gómez (Atalanta) as the value pick.
 4. **Roles:** KMeans on 27 features (8 PCA components, with 60% of the variance in the first two) separates ball-winners, progressive full-backs,
    carriers and dribblers, box strikers, pressing forwards and ball-playing centre-backs. Silhouette scores are modest (0.23 to 0.27),
    which is honest: player styles form a continuum, not neat boxes.
