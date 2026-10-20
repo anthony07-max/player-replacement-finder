@@ -1,0 +1,420 @@
+{
+  "players_profiled": 1264,
+  "leagues": [
+    "La Liga",
+    "Ligue 1",
+    "Premier League",
+    "Serie A"
+  ],
+  "silhouette": {
+    "5": 0.273,
+    "6": 0.263,
+    "7": 0.244,
+    "8": 0.233,
+    "9": 0.195,
+    "10": 0.185
+  },
+  "pca_var_2": 0.5999593395064513,
+  "roles": [
+    {
+      "role": "C0: high passes, final_third_passes, progressive_passes",
+      "players": 119,
+      "main_position": "Central midfielder",
+      "examples": "Charlie Daniels, Elseid Hysaj, H\u00e9ctor Beller\u00edn Moruno, Marek Ham\u0161\u00edk"
+    },
+    {
+      "role": "C1: high tackles, pressures, recoveries",
+      "players": 188,
+      "main_position": "Central midfielder",
+      "examples": "Andrew Surman, Nampalys Mendy, Pedro Mosquera Parada, Eric Dier"
+    },
+    {
+      "role": "C2: high turnovers, np_shots, pressures_att_third",
+      "players": 102,
+      "main_position": "Winger / attacking mid",
+      "examples": "Georginio Wijnaldum, Cristiano Ronaldo dos Santos Aveiro, Luis Alberto Su\u00e1rez D\u00edaz, Lucas P\u00e9rez Mart\u00ednez"
+    },
+    {
+      "role": "C3: high progressive_carries, xt_carry, dribbles",
+      "players": 115,
+      "main_position": "Winger / attacking mid",
+      "examples": "Moussa Sissoko, Ryad Boudebouz, Franco Dami\u00e1n V\u00e1zquez, Jonathan Viera Ramos"
+    },
+    {
+      "role": "C4: high pressures, recoveries, blocks",
+      "players": 126,
+      "main_position": "Winger / attacking mid",
+      "examples": "Djibril Sidib\u00e9, Julien F\u00e9ret, Diego Sebasti\u00e1n Laxalt Su\u00e1rez, Piotr Zieli\u0144ski"
+    },
+    {
+      "role": "C5: high clearances, pass_length, pass_completion",
+      "players": 263,
+      "main_position": "Centre-back",
+      "examples": "Wes Morgan, Toby Alderweireld, Ashley Williams, Francesco Acerbi"
+    },
+    {
+      "role": "C6: high box_touches, aerials_lost, pass_under_pressure_share",
+      "players": 139,
+      "main_position": "Striker",
+      "examples": "Rub\u00e9n Castro Mart\u00edn, Harry Kane, Troy Deeney, Jamie Vardy"
+    },
+    {
+      "role": "C7: high progressive_passes, crosses, blocks",
+      "players": 212,
+      "main_position": "Full-back",
+      "examples": "Simon Francis, Craig Dawson, Dennis Appiah, Darren Fletcher"
+    }
+  ],
+  "cases": {
+    "N'Golo Kant\u00e9": {
+      "why": "Left Leicester for Chelsea, July 2016",
+      "team": "Leicester City",
+      "pos_group": "Central midfielder",
+      "matches": [
+        {
+          "player": "Idrissa Gana Gueye",
+          "team": "Aston Villa",
+          "league": "Premier League",
+          "league_position": 20,
+          "minutes": 3218,
+          "similarity": 0.769
+        },
+        {
+          "player": "Jack Frank Porteous Cork",
+          "team": "Swansea City",
+          "league": "Premier League",
+          "league_position": 12,
+          "minutes": 2694,
+          "similarity": 0.683
+        },
+        {
+          "player": "Gonzalo Escalante",
+          "team": "Eibar",
+          "league": "La Liga",
+          "league_position": 13,
+          "minutes": 2910,
+          "similarity": 0.676
+        },
+        {
+          "player": "Jaba Kankava",
+          "team": "Stade de Reims",
+          "league": "Ligue 1",
+          "league_position": 18,
+          "minutes": 2462,
+          "similarity": 0.633
+        },
+        {
+          "player": "Cheik Isma\u00ebl Tiot\u00e9",
+          "team": "Newcastle United",
+          "league": "Premier League",
+          "league_position": 18,
+          "minutes": 1266,
+          "similarity": 0.578
+        },
+        {
+          "player": "Asier Illarramendi Andonegi",
+          "team": "Real Sociedad",
+          "league": "La Liga",
+          "league_position": 9,
+          "minutes": 2951,
+          "similarity": 0.569
+        },
+        {
+          "player": "Nemanja Radoja",
+          "team": "Celta Vigo",
+          "league": "La Liga",
+          "league_position": 6,
+          "minutes": 1543,
+          "similarity": 0.567
+        },
+        {
+          "player": "Jan Kirchhoff",
+          "team": "Sunderland",
+          "league": "Premier League",
+          "league_position": 17,
+          "minutes": 1104,
+          "similarity": 0.565
+        },
+        {
+          "player": "Francis Joseph Coquelin",
+          "team": "Arsenal",
+          "league": "Premier League",
+          "league_position": 2,
+          "minutes": 1757,
+          "similarity": 0.556
+        },
+        {
+          "player": "Mousa Sidi Yaya Demb\u00e9l\u00e9",
+          "team": "Tottenham Hotspur",
+          "league": "Premier League",
+          "league_position": 3,
+          "minutes": 2356,
+          "similarity": 0.554
+        }
+      ]
+    },
+    "Riyad Mahrez": {
+      "why": "Leicester's PFA Player of the Year",
+      "team": "Leicester City",
+      "pos_group": "Winger / attacking mid",
+      "matches": [
+        {
+          "player": "Wilfried Zaha",
+          "team": "Crystal Palace",
+          "league": "Premier League",
+          "league_position": 15,
+          "minutes": 2602,
+          "similarity": 0.687
+        },
+        {
+          "player": "Sofiane Boufal",
+          "team": "Lille",
+          "league": "Ligue 1",
+          "league_position": 5,
+          "minutes": 2431,
+          "similarity": 0.685
+        },
+        {
+          "player": "Yannick Ferreira Carrasco",
+          "team": "Atl\u00e9tico Madrid",
+          "league": "La Liga",
+          "league_position": 3,
+          "minutes": 1549,
+          "similarity": 0.637
+        },
+        {
+          "player": "Jos\u00e9 Luis Morales Nogales",
+          "team": "Levante UD",
+          "league": "La Liga",
+          "league_position": 20,
+          "minutes": 2761,
+          "similarity": 0.621
+        },
+        {
+          "player": "Ousmane Demb\u00e9l\u00e9",
+          "team": "Rennes",
+          "league": "Ligue 1",
+          "league_position": 8,
+          "minutes": 2012,
+          "similarity": 0.602
+        },
+        {
+          "player": "Hern\u00e1n Arsenio P\u00e9rez Gonz\u00e1lez",
+          "team": "Espanyol",
+          "league": "La Liga",
+          "league_position": 14,
+          "minutes": 2544,
+          "similarity": 0.571
+        },
+        {
+          "player": "Adam Ounas",
+          "team": "Bordeaux",
+          "league": "Ligue 1",
+          "league_position": 14,
+          "minutes": 1280,
+          "similarity": 0.569
+        },
+        {
+          "player": "Franco Dami\u00e1n V\u00e1zquez",
+          "team": "Palermo",
+          "league": "Serie A",
+          "league_position": 17,
+          "minutes": 3306,
+          "similarity": 0.565
+        },
+        {
+          "player": "Manuel Agudo Dur\u00e1n",
+          "team": "Celta Vigo",
+          "league": "La Liga",
+          "league_position": 6,
+          "minutes": 2568,
+          "similarity": 0.553
+        },
+        {
+          "player": "Felipe Anderson Pereira Gomes",
+          "team": "Lazio",
+          "league": "Serie A",
+          "league_position": 8,
+          "minutes": 2185,
+          "similarity": 0.552
+        }
+      ]
+    },
+    "Dimitri Payet": {
+      "why": "Left West Ham for Marseille, Jan 2017",
+      "team": "West Ham United",
+      "pos_group": "Winger / attacking mid",
+      "matches": [
+        {
+          "player": "Willian Borges da Silva",
+          "team": "Chelsea",
+          "league": "Premier League",
+          "league_position": 10,
+          "minutes": 2859,
+          "similarity": 0.793
+        },
+        {
+          "player": "\u00c1ngel Fabi\u00e1n Di Mar\u00eda Hern\u00e1ndez",
+          "team": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "league_position": 1,
+          "minutes": 2081,
+          "similarity": 0.781
+        },
+        {
+          "player": "Alejandro Dar\u00edo G\u00f3mez",
+          "team": "Atalanta",
+          "league": "Serie A",
+          "league_position": 13,
+          "minutes": 2913,
+          "similarity": 0.728
+        },
+        {
+          "player": "Du\u0161an Tadi\u0107",
+          "team": "Southampton",
+          "league": "Premier League",
+          "league_position": 6,
+          "minutes": 2351,
+          "similarity": 0.698
+        },
+        {
+          "player": "Mesut \u00d6zil",
+          "team": "Arsenal",
+          "league": "Premier League",
+          "league_position": 2,
+          "minutes": 3143,
+          "similarity": 0.689
+        },
+        {
+          "player": "Gerard Deulofeu L\u00e1zaro",
+          "team": "Everton",
+          "league": "Premier League",
+          "league_position": 11,
+          "minutes": 1456,
+          "similarity": 0.682
+        },
+        {
+          "player": "Yevhen Konoplyanka",
+          "team": "Sevilla",
+          "league": "La Liga",
+          "league_position": 7,
+          "minutes": 1710,
+          "similarity": 0.657
+        },
+        {
+          "player": "Kevin De Bruyne",
+          "team": "Manchester City",
+          "league": "Premier League",
+          "league_position": 4,
+          "minutes": 2096,
+          "similarity": 0.653
+        },
+        {
+          "player": "Antonio Candreva",
+          "team": "Lazio",
+          "league": "Serie A",
+          "league_position": 8,
+          "minutes": 2258,
+          "similarity": 0.638
+        },
+        {
+          "player": "Xherdan Shaqiri",
+          "team": "Stoke City",
+          "league": "Premier League",
+          "league_position": 9,
+          "minutes": 2056,
+          "similarity": 0.635
+        }
+      ]
+    },
+    "N'Golo Kant\u00e9 (budget)": {
+      "why": "Budget version: clubs finishing 10th or lower",
+      "team": "Leicester City",
+      "pos_group": "Central midfielder",
+      "matches": [
+        {
+          "player": "Idrissa Gana Gueye",
+          "team": "Aston Villa",
+          "league": "Premier League",
+          "league_position": 20,
+          "minutes": 3218,
+          "similarity": 0.769
+        },
+        {
+          "player": "Jack Frank Porteous Cork",
+          "team": "Swansea City",
+          "league": "Premier League",
+          "league_position": 12,
+          "minutes": 2694,
+          "similarity": 0.683
+        },
+        {
+          "player": "Gonzalo Escalante",
+          "team": "Eibar",
+          "league": "La Liga",
+          "league_position": 13,
+          "minutes": 2910,
+          "similarity": 0.676
+        },
+        {
+          "player": "Jaba Kankava",
+          "team": "Stade de Reims",
+          "league": "Ligue 1",
+          "league_position": 18,
+          "minutes": 2462,
+          "similarity": 0.633
+        },
+        {
+          "player": "Cheik Isma\u00ebl Tiot\u00e9",
+          "team": "Newcastle United",
+          "league": "Premier League",
+          "league_position": 18,
+          "minutes": 1266,
+          "similarity": 0.578
+        },
+        {
+          "player": "Jan Kirchhoff",
+          "team": "Sunderland",
+          "league": "Premier League",
+          "league_position": 17,
+          "minutes": 1104,
+          "similarity": 0.565
+        },
+        {
+          "player": "Jean-Daniel Akpa Akpro",
+          "team": "Toulouse",
+          "league": "Ligue 1",
+          "league_position": 17,
+          "minutes": 2666,
+          "similarity": 0.543
+        },
+        {
+          "player": "Sergio \u00c1lvarez D\u00edaz",
+          "team": "Sporting Gij\u00f3n",
+          "league": "La Liga",
+          "league_position": 16,
+          "minutes": 2280,
+          "similarity": 0.518
+        },
+        {
+          "player": "Rachid A\u00eft-Atmane",
+          "team": "Sporting Gij\u00f3n",
+          "league": "La Liga",
+          "league_position": 16,
+          "minutes": 1121,
+          "similarity": 0.492
+        },
+        {
+          "player": "Mirko Gori",
+          "team": "Frosinone",
+          "league": "Serie A",
+          "league_position": 19,
+          "minutes": 2310,
+          "similarity": 0.443
+        }
+      ]
+    }
+  },
+  "mendy_rank": 218,
+  "kante_pool": 294
+}

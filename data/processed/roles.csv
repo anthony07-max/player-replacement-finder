@@ -1,0 +1,9 @@
+role,players,main_position,examples
+"C0: high passes, final_third_passes, progressive_passes",119,Central midfielder,"Charlie Daniels, Elseid Hysaj, Héctor Bellerín Moruno, Marek Hamšík"
+"C1: high tackles, pressures, recoveries",188,Central midfielder,"Andrew Surman, Nampalys Mendy, Pedro Mosquera Parada, Eric Dier"
+"C2: high turnovers, np_shots, pressures_att_third",102,Winger / attacking mid,"Georginio Wijnaldum, Cristiano Ronaldo dos Santos Aveiro, Luis Alberto Suárez Díaz, Lucas Pérez Martínez"
+"C3: high progressive_carries, xt_carry, dribbles",115,Winger / attacking mid,"Moussa Sissoko, Ryad Boudebouz, Franco Damián Vázquez, Jonathan Viera Ramos"
+"C4: high pressures, recoveries, blocks",126,Winger / attacking mid,"Djibril Sidibé, Julien Féret, Diego Sebastián Laxalt Suárez, Piotr Zieliński"
+"C5: high clearances, pass_length, pass_completion",263,Centre-back,"Wes Morgan, Toby Alderweireld, Ashley Williams, Francesco Acerbi"
+"C6: high box_touches, aerials_lost, pass_under_pressure_share",139,Striker,"Rubén Castro Martín, Harry Kane, Troy Deeney, Jamie Vardy"
+"C7: high progressive_passes, crosses, blocks",212,Full-back,"Simon Francis, Craig Dawson, Dennis Appiah, Darren Fletcher"
